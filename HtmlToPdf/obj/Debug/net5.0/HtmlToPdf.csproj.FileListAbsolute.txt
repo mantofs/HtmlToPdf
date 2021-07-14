@@ -1,0 +1,13 @@
+/home/mantofs/workspace/make_pdf/HtmlToPdf/bin/Debug/net5.0/HtmlToPdf.deps.json
+/home/mantofs/workspace/make_pdf/HtmlToPdf/bin/Debug/net5.0/HtmlToPdf.dll
+/home/mantofs/workspace/make_pdf/HtmlToPdf/bin/Debug/net5.0/ref/HtmlToPdf.dll
+/home/mantofs/workspace/make_pdf/HtmlToPdf/bin/Debug/net5.0/HtmlToPdf.pdb
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/HtmlToPdf.csprojAssemblyReference.cache
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/HtmlToPdf.GeneratedMSBuildEditorConfig.editorconfig
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/HtmlToPdf.AssemblyInfoInputs.cache
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/HtmlToPdf.AssemblyInfo.cs
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/HtmlToPdf.csproj.CoreCompileInputs.cache
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/HtmlToPdf.dll
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/ref/HtmlToPdf.dll
+/home/mantofs/workspace/make_pdf/HtmlToPdf/obj/Debug/net5.0/HtmlToPdf.pdb
+/home/mantofs/workspace/make_pdf/HtmlToPdf/bin/Debug/net5.0/libwkhtmltox.so
